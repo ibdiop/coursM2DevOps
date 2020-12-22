@@ -2,3 +2,6 @@ git config --global user.name "Ibrahima DIOP"
 git config --global user.email "ibjoop@yahoo.fr"
 
 Modification du fichier après commit
+
+Création d'une branche brancheA, puis modification du fichier après être placé sur la brancheA
+
