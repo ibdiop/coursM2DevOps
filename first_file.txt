@@ -1,2 +1,4 @@
 git config --global user.name "Ibrahima DIOP"
 git config --global user.email "ibjoop@yahoo.fr"
+
+Modification du fichier après commit
